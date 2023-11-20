@@ -1,0 +1,18 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.form input {
+  margin-left: .5rem;
+}
+
+.buttons {
+  display: flex;
+  gap: .5rem;
+}
+
+.numbers {
+  margin: 2rem 0;
+}
