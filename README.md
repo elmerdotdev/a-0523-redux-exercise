@@ -1,6 +1,7 @@
 # React JS - useReducer Exercise
 
-- Convert all instances of `useState` into ONE Redux store
-- When decreasing font size, add a condition on your *reducer* function so that it doesn't go below 1px
-- Omit/remove `filterNumbers` function and add the logic instead inside the *reducer*
+- Convert all instances of `useState` into a Redux store
+- When decreasing font size, add a condition to your *reducer* so that it doesn't go below 1px
+- Omit/remove `filterNumbers` function and add the logic instead inside a *reducer*
+- You can have multiple reducers if you want
 - Final code should not have any `useState` hooks
